@@ -1,12 +1,10 @@
 A version of the example source code of the showmedo video tutorial.
 
-This version works with Django 1.4, has with separate urls.py, base.html with inheritance
-and 'no admin' functionality.
+This version works with Django 1.4, has with separate urls.py, base.html 
+with inheritance and 'no admin' functionality.
 
-The tutorial explains the usage of views, forms and base.html (template inheritance) without the usage of "from django.forms import ModelForm.
+The tutorial explains the usage of views, forms and base.html (with template 
+inheritance) without the usage of "from django.forms import ModelForm.
 
-Another alternative you could try out is “form preview” in the Django tutorial and compare it with the example shown here.
-
-
-
-
+Another alternative you could try out is “form preview” in the Django tutorial 
+and compare it with the example shown here.
